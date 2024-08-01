@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/implement-stack-using-queues/submissions/1278539587
+
 class MyStack {
     private:
     queue<int>q1;
